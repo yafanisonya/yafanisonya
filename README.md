@@ -16,4 +16,6 @@
 
 ### 📈 My Github
 
-![fanison's GitHub stats](https://github-readme-stats.vercel.app/api?username=yafanisonya&show_icons=true&theme=tokyonight&count_private=true)
+![fanison's GitHub stats](https://github-readme-stats.vercel.app/api?username=yafanisonya&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yafanisonya)](https://github.com/anuraghazra/github-readme-stats)
